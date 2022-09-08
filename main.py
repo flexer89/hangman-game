@@ -3,7 +3,7 @@ import hangman_art
 import hangman_words
 
 print(hangman_art.logo)
-print("Welcome to hangman game!")
+print("\n\nWelcome to hangman game!")
 input("Press a key to start . . .")
 hangman_art.clear()
 
